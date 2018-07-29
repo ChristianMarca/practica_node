@@ -1,6 +1,6 @@
 ## Multiplicar Console App
 
-Esta aplicación es parte de el aprendizaje de Node.js
+Esta aplicación es parte del aprendizaje de Node.js
 
 ```
 npm install
